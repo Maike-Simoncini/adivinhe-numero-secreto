@@ -3,7 +3,7 @@
 Um jogo simples e divertido feito com HTML, CSS e JavaScript, onde o jogador tenta adivinhar um número secreto entre 1 e 10.
 
 <p align="center">
-  <img src="img/ia.png" alt="Ilustração do jogo" width="300">
+  <img src="img/tela.png" alt="Ilustração do jogo" width="300">
 </p>
 
 ## 🌟 Funcionalidades
