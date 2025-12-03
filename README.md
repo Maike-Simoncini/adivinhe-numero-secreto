@@ -27,7 +27,10 @@ jogo-do-numero-secreto/
 ├── app.js
 ├── style.css
 └── img/
-    └── ia.png
+    ├── Ruido.png
+    ├── code.png
+    ├── ia.png
+    └── tela.png
 ```
 
 ## 🎮 Boa sorte...
