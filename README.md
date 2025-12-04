@@ -2,8 +2,8 @@
 
 Um jogo simples e divertido feito com HTML, CSS e JavaScript, onde o jogador tenta adivinhar um número secreto entre 1 e 10.
 
-<p align="center">
-  <img src="img/tela.png" alt="Ilustração do jogo" width="300">
+<p>
+  <img src="img/tela.png" alt="Ilustração do jogo" width="400">
 </p>
 
 ## 🌟 Funcionalidades
@@ -16,8 +16,8 @@ Um jogo simples e divertido feito com HTML, CSS e JavaScript, onde o jogador ten
 ## 🛠️ Tecnologias Utilizadas
 
 - **HTML5**
-- **CSS3** (com fontes do Google Fonts)
-- **JavaScript** (ES6+)
+- **CSS3**
+- **JavaScript**
 
 ## 📁 Estrutura do Projeto
 
@@ -33,6 +33,15 @@ jogo-do-numero-secreto/
     └── tela.png
 ```
 
-## 🎮 Boa sorte...
+## 🧑‍💻 Lógica de Programação com JavaScript
 
-Divirta-se adivinhando! 😊
+Projeto guiado pelos excelentes materiais didáticos da plataforma Alura. <br>
+Codado por:
+
+<p>
+  <img src="img/foto.png" alt="Minha Foto Profissional" width="120">
+</p>
+
+<a href="https://www.linkedin.com/in/maike-simoncini-da-silva-9769b2287">Maike Simoncini</a> 
+
+Boa sorte... e divirta-se adivinhando! 😊
